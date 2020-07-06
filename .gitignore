@@ -25,3 +25,6 @@ yarn-error.log*
 # build
 venv/
 package-lock.json
+
+#ide
+.vscode/
