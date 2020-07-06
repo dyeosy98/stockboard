@@ -6,12 +6,11 @@ const Tr = styled.tr`
 `
 const Th = styled.th`
     padding: 10px;
-    border: 1px solid black;
+    text-align: left;
 `
 
 const Td = styled.td`
     padding: 10px;
-    border: 1px solid black;
 `
 
 const Table = () => (
